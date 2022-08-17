@@ -4,5 +4,8 @@ public class EmptyClass {
 
         int a = 12;
         System.out.println(a);
+
+        String year = "20" + 12;
+        System.out.println(year);
     }
 }
